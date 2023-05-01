@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+    justify-items: center;
+}
+
+.jumbotron{
+    background-color: darkkhaki;
+    justify-items: center;
+}
+
+.card{
+    background-color: aqua;
+    justify-content: center;
+}
